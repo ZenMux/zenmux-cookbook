@@ -1,0 +1,3 @@
+https://github.com/anthropics/claude-cookbooks.git
+https://github.com/openai/openai-cookbook.git
+https://github.com/google-gemini/cookbook
